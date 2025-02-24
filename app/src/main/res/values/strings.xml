@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlueChained</string>
+    <string name="app_logo">Blue Chained Logo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recent_block">Recent Blocks</string>
+    <string name="block_no">Block Number: </string>
+    <string name="app_slogan">Secure, Transparent, Decentralized – Powering the Future with BlueChained!</string>
+</resources>
